@@ -11,5 +11,5 @@ Este projeto teve como objetivo criar um aplicativod utilizando o Expo, que é u
 
 ## Screenshots
 
-<img src="Captura1.PNG">
+<img src="img/Captura1.PNG">
 
